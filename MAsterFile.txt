@@ -1,0 +1,4 @@
+public void logout()
+{
+	code for logout
+}
